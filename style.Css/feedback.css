@@ -68,7 +68,7 @@ body {
 .feedback-hero{
 height: 100vh;
 margin-top: 80px;
-  background: url("/images/feedback\ img.png")  top/cover no-repeat;
+  background: url("/images/feedback img.png")  top/cover no-repeat;
 }
 .hero-overlay {
   height: 100%;
