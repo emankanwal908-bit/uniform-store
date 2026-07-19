@@ -68,7 +68,7 @@ body {
 .hero {
     text-align: center;
     height: 100vh;
-  background: url("/images/contact-banner.png") top/cover no-repeat;
+  background: url("/images/contactus-banner.png") top/cover no-repeat;
 }
 .hero-overlay {
   height: 100%;
