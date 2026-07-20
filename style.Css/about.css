@@ -65,9 +65,8 @@ body {
 
 
 /* HERO */
-.about-hero {
-  height: 100vh;
   .about-hero{
+    height: 100vh;
    background-image: url("../images/about-banner.jpg") top/cover no-repeat;
 }
 
