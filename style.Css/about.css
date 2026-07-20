@@ -67,7 +67,7 @@ body {
 /* HERO */
   .about-hero{
     height: 100vh;
-    background: url("../images/about-banner.jpg") center center/cover no-repeat;
+    background: url("../images/about-banner.png") center center/cover no-repeat;
 }
 
 .hero-overlay {
